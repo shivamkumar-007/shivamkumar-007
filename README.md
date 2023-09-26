@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivam Kumar</h1>
 <h3 align="center">A passionate frontend developer from India,exploring coding with enthusiasm. Focusing on learning languages and problem-solving.</h3>
-<img src="https://github.com/shivamkumar-007/shivamkumar-007/assets/62957536/ad47eca2-6edf-4e4a-89ca-bd92cc604ac5" align="center" style="width:100vw">
+<img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" align="center" style="width:100vw">
 
 
 - 🔭 I’m currently working on **password generator**
