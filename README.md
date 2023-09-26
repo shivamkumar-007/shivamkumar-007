@@ -7,9 +7,9 @@
  <ul>
   <li>🔭 I’m currently working on **password generator</li>
   <li>🌱 I’m currently learning **java-script</li>
-  <li>👨‍💻 All of my projects are available at [GitHub](https://github.com/shivamkumar-007)</li>
+  <li>👨‍💻 All of my projects are available at Github</li>
   <li>💬 Ask me about **html, css, javascript**</li>
-  <li>📫 How to reach me [Gmail](mailto:shivamkumar9891520@gmail.com)</li>
+  <li>📫 How to reach me <a href="mailto:shivamkumar9891520@gmail.com">Gmail</a></li>
   <li>⚡ Fun fact **I like moth too.</li>
  </ul>
 </h5>
