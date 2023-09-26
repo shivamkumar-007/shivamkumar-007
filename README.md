@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Shivam Kumar</h1>
-<h3 align="center">A passionate frontend developer from India,exploring coding with enthusiasm. Focusing on learning languages and problem-solving.</h3>
 <img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" align="center" style="width:100vw">
+<h4>A passionate frontend developer from India,exploring coding with enthusiasm. Focusing on learning languages and problem-solving.</h4>
 
+---
+<h5>
+ <ul>
+  <li>🔭 I’m currently working on **password generator</li>
+  <li>🌱 I’m currently learning **java-script</li>
+  <li>👨‍💻 All of my projects are available at [GitHub](https://github.com/shivamkumar-007)</li>
+  <li>💬 Ask me about **html, css, javascript**</li>
+  <li>📫 How to reach me [Gmail](mailto:shivamkumar9891520@gmail.com)</li>
+  <li>⚡ Fun fact **I like moth too.</li>
+ </ul>
+</h5>
 
-- 🔭 I’m currently working on **password generator**
-
-- 🌱 I’m currently learning **java-script**
-
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/shivamkumar-007)
-
-- 💬 Ask me about **html, css, javascript**
-
-- 📫 How to reach me [Gmail](mailto:shivamkumar9891520@gmail.com)
-
-- ⚡ Fun fact **I like moth too.**
 
 ## *Languages and Tools*
 <p align="left">
