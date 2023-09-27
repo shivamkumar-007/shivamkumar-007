@@ -5,12 +5,12 @@
 ---
 <h5>
  <ul>
-  <li>🔭 I’m currently working on **password generator</li>
-  <li>🌱 I’m currently learning **java-script</li>
+  <li>🔭 I’m currently working on password generator</li>
+  <li>🌱 I’m currently learning java-script</li>
   <li>👨‍💻 All of my projects are available at Github</li>
-  <li>💬 Ask me about **html, css, javascript**</li>
+  <li>💬 Ask me about html, css, javascript</li>
   <li>📫 How to reach me <a href="mailto:shivamkumar9891520@gmail.com">Gmail</a></li>
-  <li>⚡ Fun fact **I like moth too.</li>
+  <li>⚡ Fun fact I like moth too.</li>
  </ul>
 </h5>
 
